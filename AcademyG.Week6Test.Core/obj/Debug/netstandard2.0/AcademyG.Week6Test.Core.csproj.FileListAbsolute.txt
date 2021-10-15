@@ -1,0 +1,10 @@
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\bin\Debug\netstandard2.0\AcademyG.Week6Test.Core.deps.json
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\bin\Debug\netstandard2.0\AcademyG.Week6Test.Core.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\bin\Debug\netstandard2.0\AcademyG.Week6Test.Core.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.csproj.AssemblyReference.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.AssemblyInfoInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.AssemblyInfo.cs
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week6Test\AcademyG.Week6Test\AcademyG.Week6Test.Core\obj\Debug\netstandard2.0\AcademyG.Week6Test.Core.pdb
